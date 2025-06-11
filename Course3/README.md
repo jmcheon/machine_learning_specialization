@@ -8,16 +8,19 @@
 <br/>
 
 ## Module1 - Unsupervised learning
+
 - Clustering
 - Anomaly detection
 
-## Module2 -  Recommender systems
+## Module2 - Recommender systems
+
 - Collaborative filtering
 - Recommender systems implementation details
 - Content-based filtering
 - Principal Component Analysis
 
 ## Module3 - Reinforcement learning
+
 - Reinforcement learning introduction
 - State-action value function
 - Continuous state spaces
